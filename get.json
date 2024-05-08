@@ -1,1 +1,12 @@
-cba
+{
+  "clients": {
+    "refil": {
+      "money": 30,
+      "age": 13
+    },
+    "beeq": {
+      "money": 100,
+      "age": 12
+    }
+  }
+}
